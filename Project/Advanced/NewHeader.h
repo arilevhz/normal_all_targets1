@@ -1,0 +1,12 @@
+#define NEW 1000
+#define NEW1 1001
+#define NEW2 1002
+#define NEW3 1003
+#define NEW4 1004
+#define NEW5 1005
+#define NEW6 1006
+#define NEW7 1007
+#define NEW8 1008
+#define NEW9 1009
+#define NEW10 1010
+#define NEW11 1011

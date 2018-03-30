@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadBuild V12 Generated epub_static.fltar" Date="2016-05-17T16:39:24.9792021-07:00">
+    <Messages>Compiling target epub_static...
+Removing previously generated content...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Generating Glossary...
+Processing Page Layouts...
+Collecting source files...
+Processing source files...
+Processing topic: Helpcontrols.htm
+Processing CSS: NewStylesheet.css...
+Concept Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Processing topic: Helpcontrols_list.htm
+Concept Link control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Processing topic: relationshipsproxy.htm
+Processing topic: Dropdowns.htm
+Processing topic: Togglers.htm
+Processing topic: Manual Glossary Terms.htm
+Processing CSS: Resources\Stylesheets\Styles.css...
+Processing topic: Topic.htm
+Processing topic: FirstTopic.htm
+Processing topic: NewTopic.htm
+Processing topic: NextTopic.htm
+Processing topic: FillerTopic1.htm
+Processing topic: FillerTopic2.htm
+Processing topic: LastPage.htm
+Processing topic: xref.htm
+Processing topic: href.htm
+Linking cross-references...
+Creating chapters...
+Missing image map: map1
+Paginating...
+Collecting TOC and Index data..
+Generating TOC and Index...
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Formatting page numbers...
+Updating cross-references...
+Processing variables in GeneratedTOC.htm...
+Paginating GeneratedTOC.htm...
+     Final page count = 24.
+Processing variables in GeneratedGlossary.htm...
+Paginating GeneratedGlossary.htm...
+     Final page count = 2.
+Processing variables in GeneratedIndex.htm...
+Paginating GeneratedIndex.htm...
+     Final page count = 1.
+Updating links...
+Adding eBook chapter for GeneratedTOC.htm...
+Adding eBook chapter for GeneratedGlossary.htm...
+Adding eBook chapter for GeneratedIndex.htm...
+Saving eBook epub_static.epub...
+Removing temporary chapter files...
+Generating Index...
+Generating final output...
+Patching links and page references...
+Generated epub_static.epub
+Saving result set...
+Output generated in 6 second(s).
+
+Done
+Saving log to "C:\Users\lokamoto\Desktop\normal_all_targets\Project\Reports\epub_static.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="epub_static" ErrorID="40000" />
+        <LogEntry File="../../../Content/cross-references/href.htm" Message="Missing image map: map1" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="epub_static" ErrorID="20049" />
+        <LogEntry File="../../../Content/GlossaryTopics/Apples.htm" Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Glossary Compiler" Target="epub_static" ErrorID="40011" />
+        <LogEntry File="../../../Content/GlossaryTopics/Green.htm" Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Glossary Compiler" Target="epub_static" ErrorID="40011" />
+        <LogEntry File="../../../Content/GlossaryTopics/Orange.htm" Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Glossary Compiler" Target="epub_static" ErrorID="40011" />
+    </Warnings>
+    <Errors />
+</MadCapLog>

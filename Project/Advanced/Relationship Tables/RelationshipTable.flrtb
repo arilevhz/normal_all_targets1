@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<reltable xmlns="http://docs.oasis-open.org/dita/v1.1/schema/ditabase.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <relheader>
+        <relcolspec type="concept" />
+        <relcolspec type="task" />
+        <relcolspec type="reference" />
+    </relheader>
+    <relrow>
+        <relcell>
+            <topicref href="/Content/relationshipsproxy.htm" />
+        </relcell>
+        <relcell>
+            <topicref href="/Content/Togglers.htm" />
+            <topicref href="/Content/dynamic effects/Dropdowns.htm" />
+        </relcell>
+        <relcell>
+            <topicref href="/Content/dynamic effects/Helpcontrols.htm" />
+            <topicref href="/Content/dynamic effects/Helpcontrols_list.htm" />
+        </relcell>
+    </relrow>
+</reltable>

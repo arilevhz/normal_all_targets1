@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Destinations="" GlossaryTermConversion="marked" Skin="/Project/Skins/top.flskn" Type="WebHelp2" MasterStylesheet="/Content/custom.css" GenerateAllSkins="true" MasterPage="/Content/master.flmsp">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+</CatapultTarget>

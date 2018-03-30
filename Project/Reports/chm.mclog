@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadBuild V12 Generated chm.fltar" Date="2016-05-17T16:39:08.5108743-07:00">
+    <Messages>Compiling target chm...
+Removing previously generated content...
+Loading skin info...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Collecting linked (merged) help system info...
+Generating Glossary...
+Applying glossary master page HtmlHelpGlossary.flmsp...
+Processing CSS: Resources\Stylesheets\Styles.css...
+Collecting source files...
+Processing source files...
+Processing CSS: custom.css...
+Processing CSS: NewStylesheet.css...
+Processing CSS: Resources\Stylesheets\Modern.css...
+Generating output files...
+Processing topic: Helpcontrols.htm...
+Generated Helpcontrols.htm
+Processing topic: Helpcontrols_list.htm...
+File contains a Concept Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help.
+File contains a Concept Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help.
+File contains a Concept Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help.
+File contains a Keyword Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help.
+File contains a Keyword Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help.
+File contains a Keyword Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help.
+File contains a Related Topics Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help.
+File contains a Related Topics Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help.
+File contains a Related Topics Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help.
+Generated Helpcontrols_list.htm
+Processing topic: relationshipsproxy.htm...
+Generated relationshipsproxy.htm
+Processing topic: Dropdowns.htm...
+Generated Dropdowns.htm
+Processing topic: Togglers.htm...
+Generated Togglers.htm
+Processing topic: GlossaryTopics\Manual Glossary Terms.htm...
+Generated GlossaryTopics\Manual Glossary Terms.htm
+Processing topic: Topic.htm...
+Generated Topic.htm
+Processing topic: cross-references\FirstTopic.htm...
+Generated cross-references\FirstTopic.htm
+Processing topic: cross-references\NewTopic.htm...
+Generated cross-references\NewTopic.htm
+Processing topic: cross-references\NextTopic.htm...
+Generated cross-references\NextTopic.htm
+Processing topic: cross-references\FillerTopic1.htm...
+Generated cross-references\FillerTopic1.htm
+Processing topic: cross-references\FillerTopic2.htm...
+Generated cross-references\FillerTopic2.htm
+Processing topic: cross-references\LastPage.htm...
+Generated cross-references\LastPage.htm
+Processing topic: cross-references\xref.htm...
+Generated cross-references\xref.htm
+Processing topic: cross-references\href.htm...
+Missing image map: map1
+Generated cross-references\href.htm
+Processing topic: GlossaryTopics\Orange.htm...
+Generated GlossaryTopics\Orange.htm
+Processing topic: GlossaryTopics\Apples.htm...
+Generated GlossaryTopics\Apples.htm
+Processing topic: Lori.htm...
+Generated Lori.htm
+Processing topic: Resources\href.htm...
+Missing image map: map1
+Generated Resources\href.htm
+Processing topic: Resources\NOTinTOC2.htm...
+Generated Resources\NOTinTOC2.htm
+Processing topic: GlossaryTopics\Auto Glossary Terms.htm...
+Generated GlossaryTopics\Auto Glossary Terms.htm
+Processing topic: cross-references\NOTinTOC.htm...
+Generated cross-references\NOTinTOC.htm
+Processing topic: GlossaryTopics\Green.htm...
+Generated GlossaryTopics\Green.htm
+Generating output skins...
+Generating alias file...
+Processing audio links...
+Generating final TOC...
+Generating concept and keyword anchors in output files...
+Generating Index...
+Generating Concepts...
+Resolving links in output files...
+Generating Search Database...
+Generating final output...
+Running CHM compiler...
+Microsoft HTML Help Compiler 4.74.8702
+Compiling c:\Users\lokamoto\Desktop\normal_all_targets\Output\lokamoto\Temporary\chm\Content\chm.chm
+GlossaryTopics\Auto Glossary Terms.htm
+Dropdowns.htm
+cross-references\FillerTopic2.htm
+relationshipsproxy.htm
+Resources\NOTinTOC2.htm
+Helpcontrols.htm
+GlossaryTopics\Green.htm
+cross-references\FillerTopic1.htm
+cross-references\xref.htm
+cross-references\FirstTopic.htm
+GlossaryTopics\Orange.htm
+Topic.htm
+cross-references\NextTopic.htm
+cross-references\LastPage.htm
+cross-references\href.htm
+GlossaryTopics\Apples.htm
+GlossaryTopics\Manual Glossary Terms.htm
+Lori.htm
+cross-references\NewTopic.htm
+Helpcontrols_list.htm
+Glossary.htm
+Togglers.htm
+cross-references\NOTinTOC.htm
+Resources\href.htm
+Data\SkinDefault\SearchBG.png
+Resources\Stylesheets\Modern.css
+Data\SkinDefault\TocAccordionBackground.jpg
+Data\SkinDefault\SearchIcon.gif
+custom.css
+Data\SkinDefault\Stylesheet.xml
+Data\SkinDefault\NavigationTopGradient.jpg
+Data\SkinDefault\CommentReply.gif
+SkinSupport\MadCapGlobal.js
+Data\SkinDefault\AccordionIconsBackground.jpg
+Data\SkinDefault\Comment.gif
+Data\SkinDefault\AddComment_selected.gif
+Data\SkinDefault\ReplyComment_over.gif
+Data\SkinDefault\NavigationBottomGradient_selected.jpg
+Data\SkinDefault\AddSearchToFavorites.gif
+Data\SkinDefault\IndexIcon.gif
+Resources\Images\small_closed.png
+SkinSupport\RelatedTopics.gif
+NewStylesheet.css
+SkinSupport\MadCapBodyEnd.js
+SkinSupport\MadCapBody.js
+Data\SkinDefault\IndexHeadingBG.png
+Data\SkinDefault\AddSearchToFavorites_selected.gif
+Data\SkinDefault\Skin.xml
+Data\SkinDefault\TocAccordionBackground_over.jpg
+SkinSupport\MadCapGlossary.js
+Data\SkinDefault\AddSearchToFavorites_over.gif
+Data\SkinDefault\Topic.gif
+SkinSupport\Images\MCSlider_controls.png
+Data\SkinDefault\RefreshTopicComments_over.gif
+SkinSupport\Slideshow.css
+Data\SkinDefault\Delete_selected.gif
+Data\SkinDefault\CommunityAccordionBackground.jpg
+Resources\Stylesheets\Styles.css
+SkinSupport\jquery.js
+Data\SkinDefault\TocIcon.gif
+SkinSupport\MadCapHighlighter.js
+SkinSupport\MadCapUtilities.js
+SkinSupport\ConceptLink.gif
+Data\SkinDefault\FavoritesIcon.gif
+Resources\Images\minuss.PNG
+Data\SkinDefault\IndexAccordionBackground.jpg
+Data\SkinDefault\Delete_over.gif
+Data\SkinDefault\Book.gif
+SkinSupport\DropDownOpen.gif
+Data\SkinDefault\BrowsesequencesIcon.gif
+Data\SkinDefault\NavigationBottomGradient.jpg
+SkinSupport\small_open.png
+Data\SkinDefault\SearchAccordionBackground.jpg
+Data\SkinDefault\FavoritesAccordionBackground.jpg
+Data\SkinDefault\GlossaryAccordionBackground.jpg
+SkinSupport\small_closed.png
+SkinSupport\MadCapAliasFile.js
+cross-references\Image.png
+Data\SkinDefault\Delete.gif
+Data\SkinDefault\RefreshTopicComments.gif
+SkinSupport\MadCap.css
+Data\SkinDefault\CommunityIcon.gif
+SkinSupport\KeywordLink.gif
+SkinSupport\MadCapSlideshow.js
+Data\SkinDefault\ReplyComment.gif
+chm.xml
+Data\SkinDefault\BrowsesequencesAccordionBackground_over.jpg
+Data\SkinDefault\RefreshTopicComments_selected.gif
+SkinSupport\minuss.PNG
+Resources\Images\pluss.PNG
+Data\SkinDefault\AddComment_over.gif
+Data\SkinDefault\header.png
+Data\HelpSystem.xml
+Data\SkinDefault\ReplyComment_selected.gif
+Data\Alias.xml
+SkinSupport\DropDownClosed.gif
+Data\SkinDefault\GlossaryAccordionBackground_over.jpg
+Data\SkinDefault\GlossaryIcon.gif
+SkinSupport\Images\MCSlider_loader.gif
+Data\SkinDefault\SearchAccordionBackground_over.jpg
+Resources\Images\small_open.png
+SkinSupport\ExpandingOpen.gif
+Data\SkinDefault\ToolbarBackground.jpg
+Data\SkinDefault\AddComment.gif
+SkinSupport\pluss.PNG
+SkinSupport\ExpandingClosed.gif
+SkinSupport\MadCapEffectsMenu.js
+Data\SkinDefault\IndexAccordionBackground_over.jpg
+SkinSupport\MadCapEffects.js
+SkinSupport\MadCapMerging.js
+Data\SkinDefault\FavoritesAccordionBackground_over.jpg
+Data\SkinDefault\BookOpen.gif
+Data\SkinDefault\CommunityAccordionBackground_over.jpg
+Data\SkinDefault\BrowsesequencesAccordionBackground.jpg
+_Temp.hhc
+_Temp.hhk
+Compile time: 0 minutes, 0 seconds
+36	Topics
+93	Local links
+0	Internet links
+0	Graphics
+Created c:\Users\lokamoto\Desktop\normal_all_targets\Output\lokamoto\Temporary\chm\Content\chm.chm, 433,311 bytes
+Compression decreased file by 728,369 bytes.
+Generated ../../chm/chm.chm
+Saving result set...
+Ignored Compiler Warnings: 8
+Output generated in 7 second(s).
+
+Done
+Saving log to "C:\Users\lokamoto\Desktop\normal_all_targets\Project\Reports\chm.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="File contains a Concept Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="chm" ErrorID="30009" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="File contains a Concept Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="chm" ErrorID="30009" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="File contains a Concept Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="chm" ErrorID="30009" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="File contains a Keyword Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="chm" ErrorID="30008" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="File contains a Keyword Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="chm" ErrorID="30008" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="File contains a Keyword Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="chm" ErrorID="30008" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="File contains a Related Topics Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="chm" ErrorID="30007" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="File contains a Related Topics Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="chm" ErrorID="30007" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="File contains a Related Topics Link control set to display as a list but the current target type is HTML Help. List display is not currently supported in HTML Help." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="chm" ErrorID="30007" />
+        <LogEntry File="../../../Content/cross-references/href.htm" Message="Missing image map: map1" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="chm" ErrorID="20049" />
+        <LogEntry File="../../../Content/Resources/href.htm" Message="Missing image map: map1" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="chm" ErrorID="20049" />
+    </Warnings>
+    <Errors />
+</MadCapLog>

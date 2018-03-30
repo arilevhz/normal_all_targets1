@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="MadCap HTML5 Target" Destinations="" GlossaryTermConversion="marked" Skin="/Project/Skins/tripane.flskn" Type="WebHelp2" EnableSitemap="false" MinifyJavaScript="false">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+</CatapultTarget>

@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadBuild V12 Generated word.fltar" Date="2016-05-17T16:40:09.8685414-07:00">
+    <Messages>Compiling target word...
+Checking Word version...
+Removing previously generated content...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Generating Glossary...
+Processing Page Layouts...
+Collecting source files...
+Processing source files...
+Processing topic: GeneratedTOC.htm
+Processing topic: Helpcontrols.htm
+Concept Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols.htm". It will be removed from the output.
+Processing topic: Helpcontrols_list.htm
+Concept Link control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Concept Link control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Keyword Link control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Related Topic control found in file: "Content/Helpcontrols_list.htm". It will be removed from the output.
+Processing topic: relationshipsproxy.htm
+Processing topic: Dropdowns.htm
+Processing topic: Togglers.htm
+Processing topic: Manual Glossary Terms.htm
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Glossary definition links are not supported in this output type.
+Processing topic: Topic.htm
+Processing topic: FirstTopic.htm
+Processing topic: NewTopic.htm
+Processing topic: NextTopic.htm
+Processing topic: FillerTopic1.htm
+Processing topic: FillerTopic2.htm
+Processing topic: LastPage.htm
+Processing topic: xref.htm
+Processing topic: href.htm
+Processing topic: GeneratedGlossary.htm
+Processing topic: GeneratedIndex.htm
+Generating Index...
+Generating final output...
+Generating Final Glossary...
+Unresolved link to glossary definition topic. Topic may not be included in the output.
+Unresolved link to glossary definition topic. Topic may not be included in the output.
+Unresolved link to glossary definition topic. Topic may not be included in the output.
+Patching links and page references...
+Saving word output...
+Generated word.doc
+Saving result set...
+Output generated in 8 second(s).
+
+Done
+Saving log to "C:\Users\lokamoto\Desktop\normal_all_targets\Project\Reports\word.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Concept Link control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Concept Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Keyword Link control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Keyword Link Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry File="../../../Content/Helpcontrols_list.htm" Message="Related Topic control found in file: &quot;Content/Helpcontrols_list.htm&quot;. It will be removed from the output." LineIndex="-1" CharIndex="-1" Subsystem="Related Topic Control Compiler" Target="word" ErrorID="40000" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry Message="Glossary definition links are not supported in this output type." LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="word" ErrorID="10071" />
+        <LogEntry File="../../../Content/GlossaryTopics/Apples.htm" Message="Unresolved link to glossary definition topic. Topic may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="Glossary Compiler" Target="word" ErrorID="110006" />
+        <LogEntry File="../../../Content/GlossaryTopics/Green.htm" Message="Unresolved link to glossary definition topic. Topic may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="Glossary Compiler" Target="word" ErrorID="110006" />
+        <LogEntry File="../../../Content/GlossaryTopics/Orange.htm" Message="Unresolved link to glossary definition topic. Topic may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="Glossary Compiler" Target="word" ErrorID="110006" />
+    </Warnings>
+    <Errors />
+</MadCapLog>

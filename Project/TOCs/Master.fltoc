@@ -18,8 +18,7 @@
     Title="Togglers"
     Link="/Content/Togglers.htm" />
   <TocEntry
-    Title="Glossary Terms"
-    Link="/Content/GlossaryTopics/Manual Glossary Terms.htm" />
+    Title="Glossary Terms" />
   <TocEntry
     Title="Cross References"
     Link="/Content/Topic.htm">

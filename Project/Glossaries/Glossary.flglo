@@ -15,8 +15,6 @@
     <Terms>
       <Term>Orange</Term>
     </Terms>
-    <Definition
-      Link="/Content/GlossaryTopics/Colors/Orange.htm"></Definition>
   </GlossaryEntry>
   <GlossaryEntry
     TermClass="Expanding"
@@ -33,8 +31,6 @@
     <Terms>
       <Term>Green</Term>
     </Terms>
-    <Definition
-      Link="/Content/GlossaryTopics/Colors/Green.htm"></Definition>
   </GlossaryEntry>
   <GlossaryEntry
     TermClass="Popup"
@@ -51,8 +47,6 @@
     <Terms>
       <Term>Apples</Term>
     </Terms>
-    <Definition
-      Link="/Content/GlossaryTopics/Apples.htm"></Definition>
   </GlossaryEntry>
   <GlossaryEntry
     TermClass="Popup"

@@ -1,21 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultToc Version="1">
-    <TocEntry Title="Help controls" Link="/Content/dynamic effects/Helpcontrols.htm">
-        <TocEntry Title="Helpcontrols_list" Link="/Content/dynamic effects/Helpcontrols_list.htm" />
-    </TocEntry>
-    <TocEntry Title="relationships proxy" Link="/Content/relationshipsproxy.htm">
-    </TocEntry>
-    <TocEntry Title="Dropdowns" Link="/Content/dynamic effects/Dropdowns.htm" />
-    <TocEntry Title="Togglers" Link="/Content/Togglers.htm" />
-    <TocEntry Title="Glossary Terms" Link="/Content/GlossaryTopics/Manual Glossary Terms.htm" />
-    <TocEntry Title="Cross References" Link="/Content/Topic.htm">
-        <TocEntry Title="Cross References pointing ahead a couple of page" Link="/Content/cross-references/FirstTopic.htm" />
-        <TocEntry Title="Cross references pointing to content on the same page" Link="/Content/cross-references/NewTopic.htm" />
-        <TocEntry Title="Cross References pointing to the previous page" Link="/Content/cross-references/NextTopic.htm" />
-        <TocEntry Title="FillerTopic1" Link="/Content/cross-references/FillerTopic1.htm" />
-        <TocEntry Title="FillerTopic2" Link="/Content/cross-references/FillerTopic2.htm" />
-        <TocEntry Title="Cross References pointing back several page" Link="/Content/cross-references/LastPage.htm" />
-        <TocEntry Title="xref" Link="/Content/cross-references/xref.htm" />
-        <TocEntry Title="href" Link="/Content/cross-references/href.htm" />
-    </TocEntry>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Help controls"
+    Link="/Content/dynamic effects/Helpcontrols.htm">
+    <TocEntry
+      Title="Helpcontrols_list"
+      Link="/Content/dynamic effects/Helpcontrols_list.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="relationships proxy"
+    Link="/Content/relationshipsproxy.htm"></TocEntry>
+  <TocEntry
+    Title="Dropdowns"
+    Link="/Content/dynamic effects/Dropdowns.htm" />
+  <TocEntry
+    Title="Togglers"
+    Link="/Content/Togglers.htm" />
+  <TocEntry
+    Title="Glossary Terms"
+    Link="/Content/GlossaryTopics/Manual Glossary Terms.htm" />
+  <TocEntry
+    Title="Cross References"
+    Link="/Content/Topic.htm">
+    <TocEntry
+      Title="Cross References pointing ahead a couple of page"
+      Link="/Content/cross-references/FirstTopic.htm" />
+    <TocEntry
+      Title="Cross references pointing to content on the same page"
+      Link="/Content/cross-references/NewTopic.htm" />
+    <TocEntry
+      Title="Cross References pointing to the previous page"
+      Link="/Content/cross-references/NextTopic.htm" />
+    <TocEntry
+      Title="FillerTopic1"
+      Link="/Content/cross-references/FillerTopic1.htm" />
+    <TocEntry
+      Title="FillerTopic2"
+      Link="/Content/cross-references/FillerTopic2.htm" />
+    <TocEntry
+      Title="Cross References pointing back several page"
+      Link="/Content/cross-references/LastPage.htm" />
+    <TocEntry
+      Title="xref"
+      Link="/Content/cross-references/xref.htm" />
+    <TocEntry
+      Title="href" />
+  </TocEntry>
 </CatapultToc>

@@ -3,7 +3,7 @@
     <Map Name="NEW" Link="/Content/cross-references/FillerTopic1.htm" />
     <Map Name="NEW1" Link="/Content/cross-references/FillerTopic2.htm" />
     <Map Name="NEW2" Link="/Content/cross-references/FirstTopic.htm" />
-    <Map Name="NEW3" Link="/Content/cross-references/href.htm" />
+    <Map />
     <Map Name="NEW4" Link="/Content/cross-references/LastPage.htm" />
     <Map Name="NEW5" Link="/Content/cross-references/NewTopic.htm" />
     <Map Name="NEW6" Link="/Content/cross-references/NextTopic.htm" />
